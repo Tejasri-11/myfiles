@@ -1,0 +1,27 @@
+operator                          function name
++                                      __add__
++=                                     __iadd__
+-                                      __sub__
+-=                                     __isub__
+*                                      __mul__
+*=                                     __imul__
+/                                      __truediv__
+/=                                     __idiv__
+**                                     __pow__
+**=                                    __ipow__
+%                                      __mod__
+%=                                     __imod__
+>>                                     __rshift__
+>>=                                    __irshift__
+&                                      __and__
+&=                                     __iand__
+|                                      __or__
+|=                                     __ior__
+^                                      __xor__
+^=                                     __ixor__
+~                                      __invert__
+~=                                     __iinvert__
+>                                      __gt__
+<                                      __lt__
+>=                                     __ge__
+<=                                     __le__
